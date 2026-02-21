@@ -29,8 +29,9 @@ To view this resume on your local machine:
    git clone (https://github.com/Abdur-Rahman10/Capstone_Project_1.git)
 Navigate to the project directory:
 
-Bash
+```Bash
 cd Capstone_Project_1
+```
 Open index.html in your preferred web browser to explore the site.
 
 👨‍💻 Author
